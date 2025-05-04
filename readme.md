@@ -12,7 +12,7 @@ This project consists of three libraries and one test project:
   Implements `Hotel`, which handles availability, booking, and status.
 
 - **HotelReservation**  
-  (Optional) Console app with `Program.cs` demonstrating basic usage.
+  Console app with `main.cs` demonstrating basic usage.
 
 - **HotelReservation.Tests**  
   NUnit test project validating expected behaviors and edge cases.
