@@ -1,5 +1,7 @@
 # Hotel Reservation System
 
+## The Python folder is the python version of the code but in a simpler way. 
+
 A simple C# solution for managing hotel room bookings in memory.  
 This project consists of three libraries and one test project:
 
